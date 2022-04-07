@@ -1,0 +1,32 @@
+.navbar{
+    background-color: black;
+    display: flex;
+    padding-right: 20px;
+}
+
+
+.netflix{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #D81F26;
+    margin: 0;
+    padding: 20px 10px 20px 10px;
+}
+
+.signup{
+    background-color: #D81F26;
+    color: white;
+    cursor: pointer;
+    border-style: none;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+    height: fit-content;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    font-size: large;
+}
+
+.signup:hover{
+    background-color: white;
+    color: #D81F26;
+}

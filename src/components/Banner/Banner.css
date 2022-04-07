@@ -1,0 +1,25 @@
+.outer{
+    display: flex;
+    margin: 5em;
+    margin-top: 3em;
+}
+
+.details{
+    margin-left: 2em;
+}
+
+.title{
+    margin-top: 0;
+}
+
+.button{
+    margin-right: 1em;
+    padding: 0.5em 1em 0.5em 1em;
+    border: none;
+    border-radius: 5px;
+}
+.button:hover{
+    cursor: pointer;
+    background-color: rgba(51,51,51,0.5);
+    color: white;
+}
